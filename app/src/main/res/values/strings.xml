@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab8_PhoneBook_RecyclerView</string>
+    <string name="add_contacts">新增聯絡人</string>
+    <string name="name">姓名：</string>
+    <string name="input_name">請輸入姓名</string>
+    <string name="phone">電話：</string>
+    <string name="input_phone">請輸入電話</string>
+    <string name="add">確認新增</string>
+    <string name="image">image</string>
+    <string name="test_name">王小明</string>
+    <string name="test_phone">0900000000</string>
+</resources>
