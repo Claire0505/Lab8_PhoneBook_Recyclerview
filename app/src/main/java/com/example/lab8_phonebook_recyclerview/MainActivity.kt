@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
         layoutManager.orientation = RecyclerView.VERTICAL
         binding.recyclerView.layoutManager = layoutManager
 
-        myAdapter = MyAdapter(contacts)
+        myAdapter = MyAdapter(contacts, this)
         //連結adapter
         binding.recyclerView.adapter = myAdapter
 
